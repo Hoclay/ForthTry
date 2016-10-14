@@ -5,8 +5,8 @@ import handwritingio
 from pdfrw import PdfReader, PdfWriter, PageMerge
 
 # Get your tokens at https://handwriting.io/account/tokens
-API_TOKEN = "YOUR_TOKEN"
-API_SECRET = "YOUR_SECRET"
+API_TOKEN = "WVJAZNMRRTTTSXWK"
+API_SECRET = "3A5V7AY2BV5X92RX"
 
 # 72 points == 1 inch
 CARD_W_POINTS = 7 * 72
@@ -17,7 +17,7 @@ HANDWRITING_ID = "5WGWVXQG00WM"
 
 MESSAGE_TO_RENDER = """Hi Dave!
 
-  I Hope you're enjoying my 3-DVD box set of banned dance moves! Never stop dancing!
+  This is seriously shit!
 
 Sincerely,
     Cynthia "Bold Moves" Smith
